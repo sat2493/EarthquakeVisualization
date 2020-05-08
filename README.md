@@ -35,7 +35,7 @@ The map layout itself is adjustable to three parameters: streets, satelite, ligh
 
 # Tools
 
-Two JavaScript libraries and tools,[Leaflet](https://leafletjs.com/) and [D3](https://d3js.org/) were used for the adding functionality, earthquake dots, and tectonic lines onto the map, while [Mapbox](https://www.mapbox.com/) provided the actual map object information necessary to place our data. 
+Two JavaScript libraries and tools, [Leaflet](https://leafletjs.com/) and [D3](https://d3js.org/) were used for the adding functionality, earthquake dots, and tectonic lines onto the map, while [Mapbox](https://www.mapbox.com/) provided the actual map object information necessary to place our data. 
 
 # Limitations
 
